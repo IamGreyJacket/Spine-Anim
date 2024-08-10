@@ -1,0 +1,74 @@
+bg.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+	scale: 0.46
+Flower_02
+	bounds: 3788, 2172, 222, 187
+	offsets: 1, 1, 224, 189
+Leave_03
+	bounds: 8, 1613, 173, 163
+	offsets: 1, 2, 174, 165
+bg_01
+	bounds: 8, 2151, 3772, 1408
+	offsets: 0, 200, 3772, 1608
+	rotate: 180
+reed_07
+	bounds: 1617, 442, 647, 596
+tree_05
+	bounds: 2809, 3616, 430, 472
+tree_06
+	bounds: 2268, 451, 477, 587
+tree_07
+	bounds: 3576, 3627, 314, 461
+tree_08
+	bounds: 103, 1774, 204, 181
+	offsets: 0, 1, 204, 182
+tree_09
+	bounds: 3818, 2499, 94, 298
+tree_10
+	bounds: 3832, 2663, 218, 305
+tree_11
+	bounds: 3818, 3289, 270, 516
+tree_12
+	bounds: 3793, 2935, 266, 368
+tree_13
+	bounds: 3904, 3797, 116, 291
+tree_14
+	bounds: 3247, 3586, 356, 502
+tree_15
+	bounds: 97, 1334, 128, 263
+tree_16
+	bounds: 43, 1945, 265, 200
+tree_17
+	bounds: 3921, 2323, 116, 425
+tree_18
+	bounds: 35, 1370, 273, 276
+tree_19
+	bounds: 8, 4019, 69, 552
+	rotate: 90
+tree_20
+	bounds: 2740, 3594, 65, 494
+	offsets: 4, 29, 78, 523
+	rotate: 180
+tree_21
+	bounds: 8, 26, 1330, 1669
+	rotate: 90
+tree_22
+	bounds: 8, 3566, 2726, 522
+	offsets: 0, 0, 2726, 542
+water_01
+	bounds: 316, 1046, 3772, 1100
+water_rock_01
+	bounds: 2790, 3974, 302, 114
+	offsets: 0, 14, 302, 128
+wave_04
+	bounds: 2391, 4021, 276, 67
+wave_05
+	bounds: 2598, 3596, 149, 86
+wave_06
+	bounds: 567, 4070, 50, 18
+wave_07
+	bounds: 3214, 4021, 222, 67
+wave_08
+	bounds: 2867, 3906, 223, 64

@@ -1,0 +1,360 @@
+willow.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+	scale: 0.8
+Arm_L
+	bounds: 1196, 121, 344, 340
+	offsets: 6, 4, 354, 350
+	rotate: 180
+Arm_R
+	bounds: 1535, 180, 312, 376
+	offsets: 3, 3, 318, 382
+	rotate: 90
+Bang_01
+	bounds: 2568, 500, 237, 642
+	rotate: 90
+Bang_02
+	bounds: 3219, 3267, 376, 249
+	rotate: 90
+Collar
+	bounds: 431, 291, 232, 168
+	offsets: 2, 1, 234, 170
+Dread_01
+	bounds: 2161, 2199, 782, 1889
+	rotate: 180
+Dread_01_Forefinger
+	bounds: 737, 459, 300, 283
+	offsets: 0, 4, 300, 287
+	rotate: 180
+Dread_01_LittleFinger
+	bounds: 1044, 2335, 346, 261
+Dread_01_Root
+	bounds: 356, 1053, 482, 372
+	offsets: 0, 1, 482, 373
+Dread_01_thumb
+	bounds: 2698, 2853, 448, 278
+	rotate: 90
+Dread_02
+	bounds: 1583, 2031, 678, 2057
+Dread_02_Forefinger
+	bounds: 975, 405, 268, 154
+Dread_02_LittleFinger
+	bounds: 1372, 2513, 450, 241
+	rotate: 270
+Dread_02_Root
+	bounds: 8, 987, 354, 422
+	rotate: 180
+Dread_03_ForeFinger
+	bounds: 473, 567, 300, 315
+	offsets: 0, 4, 300, 319
+	rotate: 90
+Dread_03_Idle
+	bounds: 364, 2342, 1350, 1746
+Dread_03_Palm
+	bounds: 1926, 1010, 478, 454
+	offsets: 0, 3, 478, 457
+	rotate: 180
+Dread_03_Root
+	bounds: 3471, 1283, 617, 501
+Dread_03_Thumb
+	bounds: 3068, 607, 334, 298
+	offsets: 0, 4, 334, 302
+	rotate: 180
+Dread_03_Thumb_01
+	bounds: 1028, 615, 311, 308
+	offsets: 0, 3, 314, 313
+Dread_04_ForeFinger
+	bounds: 3013, 1041, 561, 410
+Dread_04_Idle
+	bounds: 2952, 2602, 1069, 1486
+Dread_04_LitlleFinger
+	bounds: 711, 3067, 441, 313
+	offsets: 0, 0, 443, 313
+	rotate: 270
+Dread_04_Root
+	bounds: 2848, 1410, 611, 578
+	rotate: 180
+Dread_04_Thumb
+	bounds: 1952, 684, 360, 326
+Dread_Thumb
+	bounds: 3806, 424, 282, 209
+Dress_BG_v1
+	bounds: 2670, 1546, 294, 175
+	offsets: 3, 0, 297, 175
+	rotate: 90
+Dress_BG_v2
+	bounds: 2220, 3919, 292, 169
+	offsets: 3, 4, 297, 176
+Dress_v1
+	bounds: 2009, 407, 298, 341
+	offsets: 4, 3, 303, 346
+	rotate: 270
+Ear_L
+	bounds: 2580, 455, 506, 159
+	offsets: 0, 3, 506, 162
+Ear_R
+	bounds: 484, 373, 350, 216
+	rotate: 180
+EyeBag_L
+	bounds: 1537, 2501, 172, 103
+	offsets: 3, 3, 178, 110
+EyeBag_R
+	bounds: 660, 2982, 144, 88
+	offsets: 2, 4, 149, 94
+Eye_BG_L
+	bounds: 843, 294, 153, 154
+	offsets: 6, 6, 165, 166
+Eye_BG_R
+	bounds: 931, 3592, 132, 133
+	offsets: 6, 6, 144, 145
+Eye_Glow
+	bounds: 230, 456, 240, 246
+	rotate: 90
+Eyebrow_L
+	bounds: 2749, 2803, 170, 68
+Eyebrow_R
+	bounds: 1591, 4032, 141, 56
+	offsets: 2, 3, 145, 62
+Eyelid_L
+	bounds: 8, 232, 189, 125
+	offsets: 4, 4, 197, 132
+Eyelid_R
+	bounds: 2649, 3197, 147, 126
+	offsets: 6, 3, 157, 133
+Fist_R
+	bounds: 654, 1373, 576, 515
+Fist_Thumb_R
+	bounds: 2781, 781, 392, 353
+	offsets: 0, 3, 392, 358
+Flower_01
+	bounds: 2244, 571, 362, 287
+	offsets: 1, 2, 365, 290
+	rotate: 180
+Flower_02
+	bounds: 895, 795, 385, 324
+	offsets: 3, 2, 390, 328
+	rotate: 90
+Flower_03
+	bounds: 33, 703, 427, 283
+	offsets: 1, 2, 428, 286
+	rotate: 180
+Flower_04
+	bounds: 1799, 206, 174, 179
+	offsets: 0, 4, 174, 183
+Flower_05
+	bounds: 2919, 3999, 166, 89
+Flower_06
+	bounds: 3244, 422, 200, 192
+	offsets: 3, 3, 203, 195
+Fly_01
+	bounds: 3613, 3883, 260, 205
+	offsets: 2, 3, 262, 208
+Fly_02
+	bounds: 1221, 1565, 218, 206
+	rotate: 270
+Fly_03
+	bounds: 565, 4002, 95, 86
+Fly_04
+	bounds: 8, 2577, 71, 1511
+Foor_R
+	bounds: 85, 3948, 56, 140
+	offsets: 4, 3, 65, 145
+FootFinger_1_R
+	bounds: 3083, 4032, 50, 56
+	offsets: 7, 4, 63, 65
+FootFinger_2_R
+	bounds: 780, 4033, 36, 55
+	offsets: 5, 5, 46, 65
+FootFinger_3_R
+	bounds: 3759, 4045, 48, 43
+	offsets: 4, 4, 56, 51
+Foot_L
+	bounds: 407, 3951, 61, 137
+	offsets: 3, 4, 69, 146
+ForeFinger_R
+	bounds: 3970, 3314, 107, 110
+	offsets: 5, 5, 118, 122
+Hand_Fist_L
+	bounds: 2043, 1469, 658, 642
+	rotate: 180
+Head_v2
+	bounds: 8, 1391, 657, 519
+Leave_01
+	bounds: 1117, 268, 193, 146
+Leave_02
+	bounds: 2232, 323, 222, 155
+Leave_03
+	bounds: 1243, 393, 300, 283
+	offsets: 3, 4, 303, 287
+	rotate: 270
+Leave_04
+	bounds: 3130, 211, 193, 200
+	offsets: 2, 3, 195, 203
+Leave_05
+	bounds: 1003, 3941, 187, 147
+Leave_06
+	bounds: 1535, 388, 240, 162
+Leg_L
+	bounds: 951, 3756, 46, 332
+	offsets: 3, 4, 51, 339
+Leg_R
+	bounds: 363, 3755, 43, 333
+	offsets: 4, 4, 51, 339
+LittleFinger_R
+	bounds: 3273, 3240, 126, 79
+	offsets: 5, 4, 136, 88
+Lower_Teeth
+	bounds: 2967, 3228, 134, 46
+	offsets: 4, 18, 144, 64
+MiddleFinger_R
+	bounds: 3167, 3529, 121, 94
+	offsets: 5, 4, 130, 103
+Mouth_BG
+	bounds: 3484, 2549, 186, 99
+	offsets: 4, 3, 194, 105
+Neck
+	bounds: 2760, 3582, 109, 99
+	offsets: 3, 3, 114, 105
+Nose
+	bounds: 1198, 4054, 50, 34
+	offsets: 6, 6, 62, 46
+Palm_ForeFinger_L
+	bounds: 12, 2349, 382, 231
+	offsets: 3, 0, 388, 235
+Palm_ForeFinger_R
+	bounds: 2289, 781, 446, 303
+Palm_L
+	bounds: 2657, 3276, 674, 326
+Palm_LetlleFinger_L
+	bounds: 3802, 635, 395, 286
+	offsets: 0, 3, 395, 289
+	rotate: 90
+Palm_LittleFinger_R
+	bounds: 3313, 792, 441, 256
+Palm_R
+	bounds: 3487, 1023, 588, 259
+	offsets: 2, 0, 594, 262
+Palm_Thumb_L
+	bounds: 1494, 668, 470, 220
+	offsets: 0, 0, 470, 222
+Palm_Thumb_R
+	bounds: 3463, 578, 226, 337
+	offsets: 0, 0, 229, 337
+	rotate: 90
+Pupil_00
+	bounds: 594, 3911, 83, 83
+	offsets: 6, 6, 95, 95
+Pupil_L
+	bounds: 313, 3997, 33, 91
+	offsets: 6, 6, 45, 103
+Pupil_R
+	bounds: 4035, 4009, 29, 79
+	offsets: 6, 6, 41, 91
+Tail
+	bounds: 2532, 1931, 979, 1326
+	rotate: 180
+Thumb_R
+	bounds: 3834, 3722, 67, 164
+	offsets: 5, 5, 78, 174
+Tongue
+	bounds: 2253, 3839, 135, 76
+	offsets: 3, 4, 142, 83
+Upper_Teeth
+	bounds: 921, 3520, 141, 64
+	offsets: 0, 3, 141, 70
+mud_00
+	bounds: 399, 2930, 1158, 275
+	rotate: 90
+mud_01
+	bounds: 86, 2627, 1461, 307
+	rotate: 90
+rock_01
+	bounds: 2446, 1055, 556, 474
+	rotate: 180
+rock_02
+	bounds: 1441, 1301, 623, 470
+rock_p1
+	bounds: 3752, 282, 156, 139
+rock_p2
+	bounds: 3181, 935, 118, 107
+rock_p3
+	bounds: 312, 346, 110, 102
+scarecrow_L_hand
+	bounds: 1341, 796, 657, 302
+scarecrow_L_p1
+	bounds: 161, 222, 273, 270
+scarecrow_L_p2
+	bounds: 2785, 137, 208, 283
+scarecrow_L_p3
+	bounds: 2364, 391, 422, 171
+scarecrow_R_hand
+	bounds: 3873, 3432, 656, 178
+	rotate: 90
+scarecrow_R_p1
+	bounds: 3430, 302, 118, 310
+	rotate: 90
+scarecrow_R_p2
+	bounds: 8, 359, 146, 371
+scarecrow_R_p3
+	bounds: 1911, 269, 250, 327
+	rotate: 90
+scarecrow_basement
+	bounds: 333, 815, 610, 278
+scarecrow_body
+	bounds: 3423, 1746, 665, 777
+scarecrow_head_eye_L
+	bounds: 2442, 202, 230, 191
+scarecrow_head_eye_R
+	bounds: 3928, 241, 160, 194
+scarecrow_head_leaf_01
+	bounds: 2856, 359, 157, 532
+	rotate: 90
+scarecrow_head_leaf_02
+	bounds: 3293, 1934, 129, 190
+scarecrow_head_leaf_03
+	bounds: 1807, 1765, 294, 259
+scarecrow_head_leaf_04
+	bounds: 1531, 3385, 82, 106
+scarecrow_head_leaf_05
+	bounds: 2520, 4010, 66, 78
+scarecrow_head_leaf_06
+	bounds: 3526, 4039, 66, 49
+scarecrow_head_leaf_07
+	bounds: 1003, 3848, 97, 87
+scarecrow_head_main
+	bounds: 1104, 1728, 739, 763
+scarecrow_head_mouth
+	bounds: 1327, 518, 675, 204
+scarecrow_particle
+	bounds: 3759, 909, 106, 107
+	offsets: 3, 3, 112, 113
+scarecrow_stick
+	bounds: 818, 3505, 137, 583
+	offsets: 0, 0, 138, 583
+scratches
+	bounds: 8, 1918, 416, 1088
+	rotate: 90
+shadow
+	bounds: 846, 1248, 386, 117
+splash_01_back
+	bounds: 1113, 1027, 783, 502
+	rotate: 180
+splash_01_down
+	bounds: 677, 3318, 770, 135
+	rotate: 90
+splash_01_front
+	bounds: 3377, 422, 425, 228
+	rotate: 180
+splash_01_p00
+	bounds: 3928, 2540, 160, 102
+splash_01_p01
+	bounds: 4037, 3954, 48, 47
+splash_01_p02
+	bounds: 1596, 3490, 65, 77
+splash_01_p03
+	bounds: 2975, 3960, 30, 34
+splash_01_p04
+	bounds: 2876, 3612, 68, 113
+splash_01_p05
+	bounds: 3815, 4026, 44, 62

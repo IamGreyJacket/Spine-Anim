@@ -1,0 +1,55 @@
+frame.png
+	size: 4096, 4096
+	filter: Linear, Linear
+	pma: true
+	scale: 0.51
+Flower_02
+	bounds: 1758, 3881, 246, 207
+	offsets: 2, 1, 248, 209
+Leave_03
+	bounds: 843, 3907, 191, 181
+	offsets: 2, 2, 193, 183
+leaf_01
+	bounds: 2199, 3991, 194, 97
+leaf_02
+	bounds: 309, 3997, 15, 91
+	offsets: 0, 1, 15, 93
+	rotate: 180
+reed_01
+	bounds: 8, 2053, 189, 2035
+reed_02_1
+	bounds: 239, 2013, 2075, 2048
+	rotate: 90
+reed_02_2
+	bounds: 2013, 1985, 2075, 2048
+reed_03
+	bounds: 2069, 745, 1081, 966
+	rotate: 270
+reed_04
+	bounds: 2069, 420, 1331, 1817
+	rotate: 270
+reed_05
+	bounds: 138, 2256, 114, 1832
+reed_07
+	bounds: 696, 762, 717, 660
+tree_01
+	bounds: 2872, 1675, 1216, 652
+tree_02
+	bounds: 8, 701, 902, 721
+tree_03
+	bounds: 199, 1429, 1154, 2585
+	offsets: 0, 0, 1310, 2585
+	rotate: 270
+tree_04
+	bounds: 1381, 2084, 758, 413
+tree_26
+	bounds: 258, 3595, 665, 493
+wave_04
+	bounds: 227, 3782, 306, 74
+	rotate: 90
+wave_05
+	bounds: 2400, 3993, 165, 95
+wave_06
+	bounds: 326, 4068, 56, 20
+wave_07
+	bounds: 1948, 4014, 246, 74

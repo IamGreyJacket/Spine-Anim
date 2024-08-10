@@ -1,0 +1,127 @@
+{
+"skeleton": { "hash": "sgYPcNYYiDk", "spine": "4.2.35", "x": -154, "y": -154.5, "width": 308, "height": 308 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "main", "parent": "root" },
+	{ "name": "move", "parent": "main" },
+	{ "name": "scale", "parent": "move" },
+	{ "name": "rotate", "parent": "scale" },
+	{ "name": "button", "parent": "rotate" },
+	{ "name": "oreol", "parent": "button", "skin": true },
+	{ "name": "text", "parent": "button" }
+],
+"slots": [
+	{ "name": "oreol", "bone": "oreol", "color": "ffffff80", "attachment": "oreol" },
+	{ "name": "button", "bone": "button", "attachment": "ui" },
+	{ "name": "HOOK", "bone": "text" },
+	{ "name": "ONE ROCK", "bone": "text" },
+	{ "name": "text", "bone": "text", "attachment": "text" },
+	{ "name": "START", "bone": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"button": {
+				"ui": { "y": -0.5, "width": 308, "height": 308 }
+			}
+		}
+	},
+	{
+		"name": "death",
+		"attachments": {
+			"text": {
+				"text": { "name": "DEATH", "x": -1, "y": -8.5, "width": 134, "height": 206 }
+			}
+		}
+	},
+	{
+		"name": "double_rock",
+		"attachments": {
+			"text": {
+				"text": { "name": "2HIT ROCK", "x": 3, "y": -4, "width": 210, "height": 225 }
+			}
+		}
+	},
+	{
+		"name": "hook",
+		"attachments": {
+			"text": {
+				"text": { "name": "HOOK", "x": -5.5, "y": -11, "width": 209, "height": 215 }
+			}
+		}
+	},
+	{
+		"name": "jump",
+		"attachments": {
+			"text": {
+				"text": { "name": "JUMP", "x": 15.5, "y": -2.5, "width": 179, "height": 200 }
+			}
+		}
+	},
+	{
+		"name": "one_rock",
+		"attachments": {
+			"text": {
+				"text": { "name": "ONE ROCK", "x": 9.5, "y": -5.5, "width": 201, "height": 228 }
+			}
+		}
+	},
+	{
+		"name": "selected",
+		"bones": [ "oreol" ],
+		"attachments": {
+			"oreol": {
+				"oreol": { "x": -0.5, "y": -0.5, "width": 411, "height": 412 }
+			}
+		}
+	},
+	{
+		"name": "start",
+		"attachments": {
+			"text": {
+				"text": { "name": "START", "x": -0.5, "y": 5.5, "width": 193, "height": 116 }
+			}
+		}
+	},
+	{
+		"name": "walk",
+		"attachments": {
+			"text": {
+				"text": { "name": "WALK", "x": 8, "y": -2, "width": 196, "height": 201 }
+			}
+		}
+	}
+],
+"animations": {
+	"hovering": {
+		"bones": {
+			"button": {
+				"scale": [
+					{
+						"x": 1.02,
+						"y": 0.98,
+						"curve": [ 0.088, 1.02, 0.179, 0.98, 0.088, 0.98, 0.179, 1.02 ]
+					},
+					{
+						"time": 0.2667,
+						"x": 0.98,
+						"y": 1.02,
+						"curve": [ 0.354, 0.98, 0.444, 1.02, 0.354, 1.02, 0.444, 0.98 ]
+					},
+					{ "time": 0.5333, "x": 1.02, "y": 0.98 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"bones": {
+			"button": {
+				"scale": [
+					{}
+				]
+			}
+		}
+	}
+}
+}

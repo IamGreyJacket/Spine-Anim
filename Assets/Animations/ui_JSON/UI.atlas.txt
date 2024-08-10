@@ -1,0 +1,37 @@
+UI.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+2HIT ROCK
+	bounds: 727, 730, 202, 217
+	offsets: 4, 4, 210, 225
+DEATH
+	bounds: 633, 395, 126, 198
+	offsets: 4, 4, 134, 206
+	rotate: 90
+HOOK
+	bounds: 418, 438, 201, 207
+	offsets: 4, 4, 209, 215
+	rotate: 90
+JUMP
+	bounds: 209, 364, 171, 192
+	offsets: 4, 4, 179, 200
+	rotate: 90
+ONE ROCK
+	bounds: 726, 529, 193, 220
+	offsets: 4, 4, 201, 228
+	rotate: 90
+START
+	bounds: 839, 336, 185, 108
+	offsets: 4, 4, 193, 116
+	rotate: 90
+WALK
+	bounds: 8, 347, 188, 193
+	offsets: 4, 4, 196, 201
+	rotate: 90
+oreol
+	bounds: 8, 543, 403, 404
+	offsets: 4, 4, 411, 412
+ui
+	bounds: 419, 647, 300, 300
+	offsets: 4, 4, 308, 308
