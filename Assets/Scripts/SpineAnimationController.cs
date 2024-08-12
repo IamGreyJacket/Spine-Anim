@@ -13,9 +13,6 @@ public class SpineAnimationController : MonoBehaviour
     private string _idleName;
     [SerializeField]
     private GameObject _buttonsHolder;
-    [Tooltip("Defines, whether animations will be smoothly mixing on transition from one to another.")]
-    public bool DoMix = false;
-    public float DefaultMix { get; private set; }
     private bool _isLoop = false;
     public void IsLoop(bool value) => _isLoop = value;
 
@@ -41,27 +38,6 @@ public class SpineAnimationController : MonoBehaviour
         }
         //Debug.Log($"Animations: {_targetSpine.AnimationState.Data.SkeletonData.Animations.Items}");
 #endif
-    }
-
-    private void Start()
-    {
-        DefaultMix = _targetSpine.AnimationState.Data.DefaultMix;
-        ChangeMixing(DoMix);
-    }
-
-    public void ChangeMixing(bool value)
-    {
-        if (value)
-        {
-            //включаем микс анимаций
-            _targetSpine.AnimationState.Data.DefaultMix = DefaultMix;
-        }
-        else
-        {
-            //вылючаем от греха подальше
-            _targetSpine.AnimationState.Data.DefaultMix = 0;
-        }
-        DoMix = value;
     }
 
     private void OnAnimationComplete(Spine.TrackEntry trackEntry)

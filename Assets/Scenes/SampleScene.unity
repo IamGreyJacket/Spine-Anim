@@ -4171,7 +4171,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 3_walk_loop
+          m_StringArgument: 3_walk
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &938391217
@@ -5101,7 +5101,6 @@ MonoBehaviour:
   _cutsceneName: 1_cutscene_start
   _idleName: 2_idle
   _buttonsHolder: {fileID: 1749601450}
-  DoMix: 0
 --- !u!1 &1332561817
 GameObject:
   m_ObjectHideFlags: 0
